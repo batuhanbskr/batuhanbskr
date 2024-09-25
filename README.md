@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Batuhan Başkır</h1>
 <h3 align="center">A passionate junior fullstack developer from Turkey</h3>
 
-- 🔭 I’m currently working on **Angular**
+- 🔭 I’m currently working on **Angular and ASP.NET**
 
 - 💬 Ask me about **Computer Engineering**
 
