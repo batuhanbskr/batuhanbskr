@@ -1,9 +1,9 @@
 ![MasterHead](https://www.mtu.edu/cs/undergraduate/software/what/images/software-engineering-banner2400.jpg)
 
 <h1 align="center">Hi 👋, I'm Batuhan Başkır</h1>
-<h3 align="center">A passionate junior fullstack developer from Turkey</h3>
+<h3 align="center">A passionate fullstack developer from Turkey</h3>
 
-- 🔭 I’m currently working on **Angular and ASP.NET**
+- 🔭 I’m currently working on **Angular, React and ASP.NET, NodeJS**
 
 - 💬 Ask me about **Computer Engineering**
 
